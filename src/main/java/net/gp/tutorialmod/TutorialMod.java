@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
 
 public class TutorialMod implements ModInitializer {
 	public static final String MOD_ID = "tutorialmod";
-	//test
+	//test 2
 	public static final Logger LOGGER = LogManager.getLogger(MOD_ID);
 
 	@Override
